@@ -7,11 +7,9 @@ const stack = createNativeStackNavigator();
 
 const AppNavigator = () => {
   return (
-    <NavigationContainer>
-      <stack.Navigator>
-        <stack.Screen name="ContactUs" component={ContactUsScreen} />
-      </stack.Navigator>
-    </NavigationContainer>
+    <stack.Navigator>
+      <stack.Screen name="ContactUs" component={ContactUsScreen} />
+    </stack.Navigator>
   );
 };
 
