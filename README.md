@@ -6,3 +6,4 @@
 - vscode
 - expo icons
 - expo
+- React Native Navigations
