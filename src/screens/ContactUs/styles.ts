@@ -8,7 +8,7 @@ export default StyleSheet.create({
     alignItems: "center",
   },
   text: {
-    fontSize: 30,
+    fontSize: 20,
     fontWeight: "bold",
     fontFamily: "monospace"
   },

@@ -6,7 +6,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 const ContactUsScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.text}>ContactUsScreen</Text>
+      <Text style={styles.text}>Contact us at hello@example.com</Text>
     </SafeAreaView>
   );
 };
