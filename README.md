@@ -7,3 +7,7 @@
 - expo icons
 - expo
 - React Native Navigations
+
+## Navigations:
+- Stack Navigation
+- Tab Navigation
